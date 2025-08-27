@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="GSBPGEMG.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="HTTP_Address" Type="System.String" Scope="User">
+      <Value Profile="(Default)">70.162.144.219</Value>
+    </Setting>
+    <Setting Name="HTTP_Port" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">13000</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
